@@ -1,0 +1,321 @@
+.navbar_logo {
+    width: 130px;
+    height: 41px;
+    margin-left: 400px;
+    position: static;
+}
+
+.form_button {
+    background-color: #F58220;
+    border: 0px solid #F58220;
+    color: white;
+    margin-left: 10px;
+}
+
+.carousel-txt {
+    position: absolute;
+    top: 270px;
+    left: 200px;
+    width: 1000px;
+    color: white;
+
+}
+
+.carousel_text {
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.carousel_text1 {
+    width: 600px;
+}
+
+.carousel-button {
+    background-color: #F58220;
+    border: 0px solid #F58220;
+    color: white;
+    font-weight: bold;
+}
+
+.msbc-services {
+    margin-top: 180px;
+}
+
+.msbc-services_text {
+    text-align: center;
+    color: #F58220;
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+.msbc-services_text1 {
+    text-align: center;
+
+}
+
+.msbc-services-card {
+    margin-top: 50px;
+}
+
+.card-img-top {
+    border-radius: 3%;
+}
+
+.msbc-services-card_card {
+    width: 26rem;
+    border: 0px solid white;
+}
+
+.msbc-services-card_txt {
+    position: absolute;
+    bottom: 40px;
+    left: 16px;
+    color: white;
+    font-weight: bolder;
+    font-size: 24px
+}
+
+.msbc-services-card_dash {
+    position: absolute;
+    bottom: 40px;
+    left: 16px;
+    color: white;
+    font-weight: bolder;
+    font-size: 80px;
+    color: #F58220;
+}
+
+.services-logo_img {
+    margin-top: 200px;
+    width: 44px;
+    height: 25px;
+    margin-left: 660px;
+}
+
+.subjectM {
+    margin-top: 120px;
+}
+
+.subjectM_txt {
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.subjectM_span {
+    color: #F58220;
+}
+
+.subjectM_row1 {
+    margin-top: 50px;
+}
+
+.msbc-aboutus {
+    margin-top: 150px;
+}
+
+.msbc-aboutus_txt {
+    margin-top: 40px;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.msbc-aboutus_span {
+    font-weight: bolder;
+    color: #00D7FF;
+}
+
+.msbc-aboutus_span1 {
+    color: black
+}
+
+.msbc-aboutus_txt1 {
+    margin-top: 30px;
+}
+
+.msbc-aboutus_span2 {
+    color: #060E62
+}
+
+.msbc-looking_txt {
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.msbc-looking_span {
+    color: #F58220;
+}
+
+.msbc-looking_txt1 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.looking-card {
+    margin-top: 80px;
+}
+
+.looking-card_card {
+    box-shadow: 5px 10px 5px #cac6c6;
+    border: 0px solid #cac6c6;
+}
+
+.looking-card_img {
+    width: 109px;
+    height: 109px;
+    margin-left: 22px;
+    margin-top: 20px;
+}
+
+.looking-card_title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.looking-card_row1 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.looking-card_button {
+    background-color: #F58220;
+    margin-top: 30px;
+    color: white;
+    font-size: 20px;
+}
+
+.msbc-insight_row {
+    margin-top: 150px;
+}
+
+.msbc-insight_txt {
+    font-size: 60px;
+    font-weight: bolder;
+    margin-left: 170px;
+}
+
+.msbc-insight_span {
+    color: #F58220;
+    text-align: center;
+}
+
+.msbc-contact_row {
+    margin-top: 200px;
+}
+
+.msbc-insight_txt1 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.msbc-contact_txt {
+    color: #F58220;
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.msbc-contact_txt1 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.msbc-contact_row1 {
+    margin-top: 50px;
+}
+
+.msbc-contact_container {
+    border: 1px solid rgb(223, 210, 210);
+    background-color: #00D7FF;
+    width: auto;
+    height: 200px;
+    opacity: 0.6;
+}
+
+.msbc-contact_img {
+    width: 150px;
+    height: 120px;
+    justify-content: left;
+    margin-right: -200px;
+    margin-top: -70px;
+
+}
+
+.msbc-contact_add {
+    text-align: center;
+    color: white;
+}
+
+.msbc-contact_address {
+    color: white;
+    margin-top: -150px;
+    margin-left: 10px;
+}
+
+.msbc-contact_address1 {
+    color: white;
+    margin-top: -150px;
+    text-align: right;
+    margin-right: 10px;
+
+}
+
+.msbc-contact_row2 {
+    margin-top: 11px;
+    border: 2px solid #F58220;
+}
+
+.msbc-contact_container1 {
+    background-color: #212529;
+    color: white;
+}
+
+.msbc-contact_button {
+    background-color: #F58220;
+    margin-left: 90px;
+    width: 150px;
+    height: 60px;
+    border: 1px solid #F58220;
+}
+
+.msbc-contact_txtarea {
+    width: 500px;
+    margin-left: 60px;
+}
+
+.msbc-contact_para {
+    font-size: 10px;
+}
+
+.msbc-container {
+    margin-top: 150px;
+}
+
+.msbc-footer_dash {
+    font-weight: bolder;
+    font-size: 80px;
+    color: #F58220;
+    margin-top: -70px;
+}
+
+.msbc-footer_txt {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.msbc-footer_li {
+    font-weight: bold;
+}
+
+.msbc-footer_col {
+    text-align: center;
+}
+
+.msbc-footer1 {
+    background-color: #212529;
+    width: 1887apx;
+    color: white;
+    margin-left: -300px;
+    height: 70px;
+}
